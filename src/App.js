@@ -2,7 +2,7 @@ import Home from "./components/Home";
 
 function App() {
   return (
-    <div className="App" className="text-white">
+    <div className="App text-white">
       <Home/>
     </div>
   );
