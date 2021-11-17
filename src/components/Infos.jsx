@@ -7,7 +7,6 @@ export default function Infos() {
         <a
           href="https://github.com/AdryanaP"
           className="flex gap-6 items-center"
-          target="_blank"
         >
           <BsGithub className="w-24 h-24" />
           <p>/AdryanaP</p>
@@ -15,7 +14,6 @@ export default function Infos() {
         <a
           href="https://www.linkedin.com/in/adryanaportugal/"
           className="flex gap-6 items-center"
-          target="_blank"
         >
           <BsLinkedin className="w-24 h-24" />
           <p>/adryanaportugal</p>
