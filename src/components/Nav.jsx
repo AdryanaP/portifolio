@@ -7,8 +7,6 @@ export default function Nav() {
             <a
               className="text-center font-semibold block border-b-2 border-transparent hover:border-lilac hover:border-b"
               href="/"
-              rel="noreferrer noopener"
-              target="_blank"
             >
               Home
             </a>
@@ -17,8 +15,6 @@ export default function Nav() {
             <a
               className="text-center font-semibold block border-b-2 border-transparent hover:border-lilac hover:border-b"
               href="/Projects"
-              rel="noreferrer noopener"
-              target="_blank"
             >
               Projects
             </a>
@@ -27,8 +23,6 @@ export default function Nav() {
             <a
               className="text-center font-semibold block border-b-2 border-transparent hover:border-lilac hover:border-b"
               href="/Infos"
-              rel="noreferrer noopener"
-              target="_blank"
             >
               Infos
             </a>
