@@ -30,7 +30,7 @@ export default function Projects() {
             return (
               <li className="text-center" key={item.id}>
                 <p>{item.title}</p>
-                <a href={item.link}>
+                <a href={item.link} rel="noreferrer noopener" target="_blank">
                   Link
                 </a>
               </li>
